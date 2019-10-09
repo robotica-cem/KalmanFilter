@@ -1,2 +1,2 @@
 # KalmanFilter
-Code on MATLAB for Falman Filter
+Code on MATLAB for Kalman Filter
